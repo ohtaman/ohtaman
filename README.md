@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on something good. Please visit [my page](https://ohtaman.github.io/).
-- 🌱 I’m currently learning mathematical optimization, reinforcement learning, Rust and so on.
+- 🔭 I’m currently working on something cool. Please visit [my page](https://ohtaman.github.io/) and [my Zenn](https://github.com/vn7n24fzkq/github-profile-summary-cards).
+- 🌱 I’m currently learning mathematical optimization, reinforcement learning, discrete-event simulation and so on.
 - 💬 Ask me about machine learning.
 - 📫 How to reach me: [@ohtaman](https://twitter.com/ohtaman)
 
